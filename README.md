@@ -1353,11 +1353,8 @@ Large Language Models are the flagship technology of modern Generative AI. By co
 
 
 ChatGPT vs Google Gemini – Comparative Analysis
-Criteria              	ChatGPT	                          Google Gemini
-Accuracy	      Evaluate correctness of answers	                 Evaluate correctness of answers
-Creativity	    Evaluate examples and presentation	             Evaluate examples and presentation
-Hallucination	  Check incorrect or invented information	         Check incorrect or invented information
-Reasoning	      Evaluate clarity and step-by-step explanation	   Evaluate clarity and step-by-step explanation
-Speed	          within a Second                                  within a Second
+
+<img width="943" height="347" alt="image" src="https://github.com/user-attachments/assets/884eba92-d9ac-4114-af1e-14cc7c91acc9" />
+
 # Result
 ChatGPT is slightly better for academic explanations and structured learning, while Gemini is also a useful tool for generating creative ideas.
